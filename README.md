@@ -15,7 +15,7 @@ Ce projet, réalisé en collaboration avec Jean-Louis Hu et Thomas Dahrouj, cons
 
 Le rapport final synthétise les résultats obtenus et les leçons tirées du processus.
 
-***⚙️ Comment l'utiliser***
+***⚙️ Comment l'utiliser ?***
 
 - Accédez aux ressources
 
