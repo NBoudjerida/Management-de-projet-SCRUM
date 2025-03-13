@@ -4,6 +4,8 @@
 
 ***📖 Ce qu'est le projet***
 
+![Page de Garde 5 ](https://github.com/user-attachments/assets/7bdb1428-7f03-4f0f-aa62-37aa7543bd2c)
+
 Ce projet, réalisé en collaboration avec Jean-Louis Hu et Thomas Dahrouj, consiste en la création d'une plateforme collaborative de gestion des données en suivant la méthodologie agile SCRUM. Organisé en trois sprints (SCRUM 1, 2, et 3), le projet a abouti à la création de :
 
 - Un glossaire pour harmoniser les termes métiers.
