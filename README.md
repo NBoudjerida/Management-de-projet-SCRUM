@@ -25,9 +25,9 @@ Le rapport final synthétise les résultats obtenus et les leçons tirées du pr
   
 ***🛠️ Technologies utilisées***
 
-- Power BI : Visualisation des données et cartographie des flux.
+- **Power BI** : Visualisation des données et cartographie des flux.
 - **Python** : Traitement des données, automatisation et nettoyage.
 - **Trello** : Gestion des tâches et des sprints SCRUM.
 - **JIRA** : Suivi des itérations et gestion des dépendances.
-- GitHub : Stockage, versionnage et collaboration sur les scripts.
+- **GitHub** : Stockage, versionnage et collaboration sur les scripts.
 - **Google Sheets** : Documentation des données et catalogue de métadonnées.
